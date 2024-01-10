@@ -1,2 +1,1 @@
 # plugins
-CON CẶC
